@@ -244,6 +244,7 @@ let g:xml_syntax_folding = 1
 
 
 "NERDTree-git
+"let g:NERDTreeShowIgnoredStatus = 1
 let g:NERDTreeIndicatorMapCustom = {
     \ "Modified"  : "✹",
     \ "Staged"    : "✚",
