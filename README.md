@@ -48,3 +48,15 @@ my vim/neovim configurations
 
 ## semshi
   python色彩增强
+
+
+# Note:
+  neovim 配置位于~/.config/nvim文件夹
+  以软链接设置neovim共享vim配置:
+  ln -s ~/.vim ~/.config/nvim
+  ln -s ~/.vimrc ~/.config/nvim/init.vim
+
+# Note:
+  本文件夹为提交到github创建
+  .vim .vimrc为软链接，原始位置在～目录下！
+
